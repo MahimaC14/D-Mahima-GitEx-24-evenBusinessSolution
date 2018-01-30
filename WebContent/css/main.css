@@ -1,0 +1,14 @@
+@CHARSET "UTF-8";
+
+
+table, th, td {
+	background-color: lime;
+	border: 1px solid black;
+	margin: auto;
+	
+}
+td{align: right;}
+.error {
+	color: red;
+}
+
